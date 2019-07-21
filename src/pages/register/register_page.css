@@ -1,0 +1,8 @@
+.register-container {
+    /* display: flex; */
+    min-height: 50vh !important;
+}
+
+.status-container {
+    display: flex;
+}
